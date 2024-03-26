@@ -10,6 +10,6 @@
 <p>
   According to “Spotify for Developers” documentation, the authorization code flow is depicted below.
   I utilized Python to connect to the API and make calls to retrieve track audio features data.
-  (See my code [here](https://github.com/janeytangy/spotify-api/blob/main/spotify-api-calls.py))
+  (See my code <a href="https://github.com/janeytangy/spotify-api/blob/main/spotify-api-calls.py">here</a>)
 </p>
-![spotify-authorization-code-flow](https://developer.spotify.com/images/documentation/web-api/auth-code-flow.png)
+<img alt="auth-code-flow" src="https://developer.spotify.com/images/documentation/web-api/auth-code-flow.png">
